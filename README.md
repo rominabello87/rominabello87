@@ -1,4 +1,4 @@
-- 👋Hola, soy @rominabello87
+- 👋Hola, soy Romi Bello
 - 👀 Soy QA Tester Funcional Manual y docente de alma
 - 🌱 Estoy incursionando en automatización
 - 💞️ Tengo diplomaturas en Liderazgo y Gestión de equipos con metodologías ágiles. Amo Scrum :)
