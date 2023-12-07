@@ -1,0 +1,16 @@
+print("Hola, Cómo te llamas?")
+nombre = input()
+print("Me alegra que me hayas elegido para aprender Python,", nombre)
+edad = input("Cuántos años tienes?")
+print("Tienes",edad,"años")
+print("Ahora",nombre,"dime, de qué país eres?")
+país =input()
+print("Perfecto",nombre,"voy tomando nota. Por qué motivo estás consultando?")
+motivo = input()
+print("Entiendo",nombre,"y qué te gustaría decirme?")
+nota = input()
+print("Todo listo,",nombre,"ya podemos aprender Python. Solo falta que me indiques tu correo")
+correo = input()
+print("Genial, en breve estarás recibiendo mi mensaje en tu correo. Gracias por comenzar!")
+
+
