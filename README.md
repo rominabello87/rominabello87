@@ -5,7 +5,9 @@
 
 ## Sobre mi
 
-Soy QA Tester Funcional Manual, Scrum Master y docente de alma.
+Soy una argentina viviendo en España hace 2 años. 
+
+Me desempeño como QA Tester Funcional Manual, soy Scrum Master y docente de alma.
 
 Tengo experiencia en testing de aplicaciones Web - app y móviles nativas.
 
@@ -35,6 +37,8 @@ Para gestión de incidencias prefiero X-Ray.
 ​📖​📚 Amo leer. Tengo libros de Agilidad, Testing, Gestión de equipos, Gestión emocional, Ley de atracción, Visualización y ... Ángeles. Sí, mi lado B es espiritual 🪽​
 
 En mi escritorio tengo mate 🧉 y la companía de mi gata 🐈​
+
+Para trabajar pongo incienso, musica chillout y envío mis decretos de "Hoy será un gran día" para comenzar la jornada... y sabes qué? todo a mi alrededor cambia ​☀️
 
 ## Contáctame
 
