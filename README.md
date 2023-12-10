@@ -7,13 +7,13 @@
 
 Soy una argentina viviendo en España hace 2 años. 
 
-Me desempeño como QA Tester Funcional Manual, soy Scrum Master y docente de alma.
+Me desempeño como ***QA Tester Funcional Manual***, soy Scrum Master y docente de alma.
 
 Tengo experiencia en testing de aplicaciones Web - app y móviles nativas.
 
 Estoy incursionando en automatización, por lo que estoy comenzando a estudiar Selenium con Python.
 
-Tengo diplomaturas en Liderazgo y Gestión de equipos con metodologías ágiles
+Tengo diplomaturas en *Liderazgo y Gestión de equipos* con metodologías ágiles
 
 ## Experiencia
 
@@ -30,15 +30,15 @@ Participé en proyectos que trabajaron con las siguientes tecnologías:
 
 Para gestión de proyectos trabajé con Jira y Azure Devops.
 
-Para gestión de incidencias prefiero X-Ray.
+Para gestión de incidencias prefiero *X-Ray*.
 
 ## Aficiones
 
-​📖​📚 Amo leer. Tengo libros de Agilidad, Testing, Gestión de equipos, Gestión emocional, Ley de atracción, Visualización y ... Ángeles. Sí, mi lado B es espiritual 🪽​
+​📖​📚 Amo leer. Tengo libros de Agilidad, Testing, Gestión de equipos, Gestión emocional, Ley de atracción, Visualización y ... ***Ángeles***. Sí, mi lado B es espiritual 🪽​
 
 En mi escritorio tengo mate 🧉 y la companía de mi gata 🐈​
 
-Para trabajar pongo incienso, musica chillout y envío mis decretos de "Hoy será un gran día" para comenzar la jornada... y sabes qué? todo a mi alrededor cambia ​☀️
+Para trabajar pongo incienso, 🎶 Bossa nova🎶, para comenzar la jornada decreto "✨Hoy será un gran día✨"... y sabes qué? todo a mi alrededor cambia ​☀️
 
 ## Contáctame
 
